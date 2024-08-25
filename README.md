@@ -1,2 +1,2 @@
-# merge-pdf
-Litte app to merge pdfs
+# Merge pdf
+Little app to merge pdfs using [pdf-merger-js](https://www.npmjs.com/package/pdf-merger-js)

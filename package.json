@@ -1,0 +1,20 @@
+{
+  "name": "merge-pdf",
+  "version": "1.0.0",
+  "description": "Little app to merge pdfs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar F. Munoz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pdf-merger-js": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
